@@ -111,5 +111,5 @@ Feel free to use, modify, and share this code. Please provide appropriate attrib
 ### Copyright and contact information
 
 - Copyright (c) 2024 Helena Utzig, Natalie Meintjes.
-- If you have any problems, questions, ideas or suggestions, please reach me out by helenautzig@gmail.com.
-- Contact into the 42Network: https://profile.intra.42.fr/users/hutzig.
+- If you have any problems, questions, ideas or suggestions, please reach me out by natalie.mein@gmail.com.
+- Contact into the 42Network: https://profile.intra.42.fr/users/nmeintje.
