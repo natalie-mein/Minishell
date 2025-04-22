@@ -1,5 +1,9 @@
 # Minishell
 
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/Arcane-Jill/images/blob/main/minishellm.png">
+</p>
+
 ## Project overview
 
 The project is a part of the [Hive Helsinki](https://www.hive.fi/en/curriculum) core curriculum. **Minishell** is simple Shell (Unix interface) written in C that uses Bash (Bourne Again SHell) as a reference. The program supports both interactive and non-interactive modes, command history, built-in commands and external executables, and manage POSIX signals. Minishell uses AST (Abstract Syntax Tree to process user input, supporting complex command chains.
