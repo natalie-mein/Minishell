@@ -76,7 +76,7 @@ To successfully install and run this project, you should have:
 1. **Clone the repository and navigate to the project directory:** First, you need to clone the repository to your local machine and change into the project directory:
 
 ```bash
-git clone git@github.com:hlntzg/minishell.git && cd minishell/
+git clone git@github.com:natalie-mein/minishell.git && cd minishell/
 ```
 
 2. **Compile the program:** `Makefile` is included and it automatically handle the compilation for you. After compiling, you will get the executable `minishell`. To compile the program, run:
