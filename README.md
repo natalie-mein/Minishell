@@ -6,7 +6,7 @@
 
 ## Project overview
 
-The project is a part of the [Hive Helsinki](https://www.hive.fi/en/curriculum) core curriculum. **Minishell** is simple Shell (Unix interface) written in C that uses Bash (Bourne Again SHell) as a reference. The program supports both interactive and non-interactive modes, command history, built-in commands and external executables, and manage POSIX signals. Minishell uses AST (Abstract Syntax Tree to process user input, supporting complex command chains.
+The project is a part of the [Hive Helsinki](https://www.hive.fi/en/curriculum) core curriculum. **Minishell** is simple Shell (Unix interface) written in C that uses Bash (Bourne Again SHell) as a reference. The program supports both interactive and non-interactive modes, command history, built-in commands and external executables, and manages POSIX signals. Minishell uses an AST (Abstract Syntax Tree) to process user input, supporting complex command chains.
 This project was developed by [Helena Utzig](https://github.com/hlntzg) and [Natalie Meintjes](https://github.com/Arcane-Jill) as part of the 42 core curriculum.
 
 ## Features
@@ -79,7 +79,7 @@ To successfully install and run this project, you should have:
 git clone git@github.com:natalie-mein/minishell.git && cd minishell/
 ```
 
-2. **Compile the program:** `Makefile` is included and it automatically handle the compilation for you. After compiling, you will get the executable `minishell`. To compile the program, run:
+2. **Compile the program:** `Makefile` is included and it automatically handles the compilation for you. After compiling, you will get the executable `minishell`. To compile the program, run:
 
 ```bash
 make
@@ -115,5 +115,5 @@ Feel free to use, modify, and share this code. Please provide appropriate attrib
 ### Copyright and contact information
 
 - Copyright (c) 2024 Helena Utzig, Natalie Meintjes.
-- If you have any problems, questions, ideas or suggestions, please reach me out by natalie.mein@gmail.com.
-- Contact into the 42Network: https://profile.intra.42.fr/users/nmeintje.
+- If you have any problems, questions, ideas or suggestions, please reach out to me by email at natalie.mein@gmail.com.
+- My profile on the 42Network: https://profile.intra.42.fr/users/nmeintje.
